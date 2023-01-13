@@ -19,6 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-as&show_icons=true&locale=en&layout=compact" alt="carlos-as" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-as&" alt="carlos-as" /></p>
-
-https://github-readme-stats.vercel.app/api?username=carlos-as
-
